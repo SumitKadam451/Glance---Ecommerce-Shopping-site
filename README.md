@@ -36,7 +36,7 @@ Welcome to Glance, your one-stop destination for effortless shopping! At Glance,
 
 ## Demo
 
-Check out the live demo of [Glance - Ecommerce website](https://sumitkadam451.github.io/Glance---Ecommerce-Shopping-site/)
+Check out the live demo of [Glance - Ecommerce website](https://glance---ecommerce-shopping-site.pages.dev/)
 
 
 ## 🚀 About Me
